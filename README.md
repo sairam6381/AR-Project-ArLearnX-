@@ -1,6 +1,7 @@
 # AR Project-ArLearnX
 Developed an innovative AR application to enhance educational experiences by integrating digital data into interactive 3D models for subjects like anatomy and space science. Utilized Unity and Vuforia for seamless AR interactions, and Blender for detailed 3D model creation. Designed a user-friendly interface.
 
+
 ## Demo
 Here's a demo video showcasing how the project works:
 
@@ -15,3 +16,11 @@ If you would like to contribute, please follow these steps:
 - Commit your changes (git commit -m 'Add new feature')
 - Push to the branch (git push origin feature-branch)
 - Create a new Pull Request
+
+## Authors
+- [@Sairam](https://www.github.com/sairam6381)
+- [@Rathiesh Prasad](https://www.github.com/Rathieshprasad)
+
+
+![Ax-removebg-previewsd](https://github.com/sairam6381/AR-Project-ArLearnX-/assets/86945018/26af08f8-92c6-4b9b-b8cf-941db16f8f13)
+
