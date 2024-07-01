@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="brain" size="6.000000 6.252000" />
+    <ImageTarget name="d" size="6.000000 4.000000" />
+    <ImageTarget name="plantcell" size="6.000000 4.635000" />
+    <ImageTarget name="earthmarker" size="6.000000 3.375000" />
+  </Tracking>
+</QCARConfig>
